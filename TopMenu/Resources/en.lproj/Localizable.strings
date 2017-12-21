@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  QWALL
+
+  Created by Tops on 12/4/17.
+  Copyright © 2017 Tops. All rights reserved.
+*/
+
+//Login validations
+"kLoggingenterEmailQwall" = "Plase enter email address.";
+"kLoggingPasswordQwall" = "Plase enter password.";
+"kLoggingValidValidEmailQwall" = "Plase enter a valid email address.";
+
+
+//SignUP validations
+"kSignupenternameQwall" = "Plase enter name (Fullname).";
+"kSignupenterEmailEnterQwall" = "Plase enter email address.";
+"kSignupValidValidEmailQwall" = "Plase enter a valid email address.";
+"kSignupPasswordEnterQwall" = "Plase enter password.";
+"kSignupPasswordnotMatchQwall" = "Entered password did not match.";
+
+//Change Password
+"keySUChangePasswordsrcNew" = "Please enter new password";
+"keySUChangePasswordsrcCon" = "Please enter confirm password";
+"keySUChangePasswordsrcOlD" = "Please enter old password";
+"keySUChangePasswordsrcConfirm" = "New password and confirm new password doesn't match";
+
+//InterNet Message
+"keyInternetMsg" = "Ops. something went wrong please try again.";
