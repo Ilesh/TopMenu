@@ -8,17 +8,29 @@
 </a>
 </p>
 
-It is the simple topview menu. You can used with your existing project. please make sure you drag all the files and code from the source.
+Here you can find the demo projct for TopMenu. It will help you to open more option from the top. It simple way to manage throught AppDelegate. It will work potrait and lanscape both. Please download or clone repo for more understanding. Thank you for your time. Happy codding;)
 
-![ezgif com-optimize](https://i.imgflip.com/2qf0rg.gif)
+
+<p align="center">
+  <img src= "https://i.imgflip.com/2qf0rg.gif" />
+</p>
 
 ## Example
 
-To run the example project, clone the repo and run TopMenu.xcodeproj
+To run example demo project, download or clone the repo and open TopMenu.xcodeproj in your lates Xcode.
 
-## Authors
+## Contributing
 
-* **[Ilesh Panchal](https://github.com/ilesh)**
+- If you **need help** or you'd like to **ask a general question**, open an issue.
+- If you **found a bug**, open an issue.
+- If you **have a feature request**, open an issue.
+- If you **want to contribute**, submit a pull request.
+
+## 👨🏻‍💻 Author
+
+* **[Ilesh Panchal](https://twitter.com/ilesh_panchal)**
+
+<a href="https://www.buymeacoffee.com/dD9nr61qx" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 ## License
